@@ -126,7 +126,7 @@ This project is licensed under the MIT License.
 
 ---
 
-## Author
+## Author: Isaack Joshua
 
 Developed as part of a machine learning research project on TB–HIV co-infection prediction.
 
