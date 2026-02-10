@@ -1,14 +1,14 @@
 ````markdown
 # TB–HIV Co-Infection Prediction Model
 
-## Overview
+ Overview
 This repository contains a machine learning–based system developed to detect **Tuberculosis (TB)** and predict **HIV co-infection** using medical data. The project aims to support early diagnosis and risk assessment by leveraging data-driven models that generalize well to real-world clinical settings.
 
 The model was trained and evaluated using multiple performance metrics to ensure **reliability**, **robustness**, and **clinical relevance**.
 
 ---
 
-## Objectives
+ Objectives
 - Detect Tuberculosis from patient medical data  
 - Predict the likelihood of HIV co-infection among TB-positive cases  
 - Evaluate model performance using standard and clinically meaningful metrics  
@@ -16,7 +16,7 @@ The model was trained and evaluated using multiple performance metrics to ensure
 
 ---
 
-## Dataset
+ Dataset
 - Medical and clinical patient data  
 - Features may include demographic, clinical, and laboratory variables  
 - Data preprocessing includes:
