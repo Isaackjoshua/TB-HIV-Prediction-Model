@@ -24,7 +24,7 @@ The model was trained and evaluated using multiple performance metrics to ensure
   - Feature scaling and encoding
   - Train–test splitting
 
-> **Note:** Due to privacy and ethical considerations, raw medical data is not included in this repository.
+ **Note:** Due to privacy and ethical considerations, raw medical data is not included in this repository.
 
 ---
 
