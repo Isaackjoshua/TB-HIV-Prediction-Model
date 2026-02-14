@@ -49,6 +49,7 @@ The model was evaluated using:
 - Precision
 - Recall (Sensitivity)
 - F1-Score
+- Confusion matrix
 - ROC-AUC
 
 These metrics were selected to ensure balanced evaluation, especially in the presence of class imbalance and medical risk sensitivity.
